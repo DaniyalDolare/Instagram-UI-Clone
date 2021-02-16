@@ -1,6 +1,6 @@
 # InstagramUIClone
 
-A new Flutter project.
+This is a instagram ui clone using flutter. This project is made to learn flutter ui building.
 
 ## Getting Started
 
